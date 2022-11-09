@@ -1,0 +1,1 @@
+.accordion-item{padding:10px;margin:10px;box-shadow:10px 4px 10px #add8e6;cursor:pointer}.accordion-title{display:flex;justify-content:space-between}.accordion-opened,.accordion-item:hover{border-left:5px solid cyan;transition-duration:1s}
